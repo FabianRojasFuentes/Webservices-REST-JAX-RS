@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: jersey-server-1.13.jar asm-3.1.jar jersey-core-1.13.jar je
+ rsey-client-1.13.jar jersey-servlet-1.13.jar jersey-json-1.13.jar jet
+ tison-1.1.jar stax-api-1.0.1.jar jaxb-impl-2.2.3-1.jar jaxb-api-2.2.2
+ .jar stax-api-1.0-2.jar activation-1.1.jar jackson-core-asl-1.9.2.jar
+  jackson-mapper-asl-1.9.2.jar jackson-jaxrs-1.9.2.jar jackson-xc-1.9.
+ 2.jar gson-2.2.2.jar xom-1.2.5.jar xml-apis-1.3.03.jar xercesImpl-2.8
+ .0.jar xalan-2.7.0.jar maven-spring-data-jpa-1.0.jar spring-data-jpa-
+ 1.1.0.RELEASE.jar spring-data-commons-core-1.3.0.RELEASE.jar spring-b
+ eans-3.1.2.RELEASE.jar spring-core-3.1.2.RELEASE.jar spring-asm-3.1.2
+ .RELEASE.jar commons-logging-1.1.1.jar junit-dep-4.8.2.jar hamcrest-c
+ ore-1.1.jar spring-orm-3.1.2.RELEASE.jar spring-jdbc-3.1.2.RELEASE.ja
+ r spring-tx-3.1.2.RELEASE.jar aopalliance-1.0.jar spring-aop-3.1.2.RE
+ LEASE.jar spring-context-3.1.2.RELEASE.jar spring-expression-3.1.2.RE
+ LEASE.jar slf4j-api-1.6.6.jar jcl-over-slf4j-1.6.1.jar aspectjrt-1.6.
+ 12.jar mysql-connector-java-5.1.21.jar hibernate-entitymanager-4.1.6.
+ Final.jar jboss-logging-3.1.0.GA.jar hibernate-core-4.1.6.Final.jar a
+ ntlr-2.7.7.jar jboss-transaction-api_1.1_spec-1.0.0.Final.jar dom4j-1
+ .6.1.jar hibernate-jpa-2.0-api-1.0.1.Final.jar javassist-3.16.1-GA.ja
+ r hibernate-commons-annotations-4.0.1.Final.jar logback-classic-1.0.6
+ .jar logback-core-1.0.6.jar
+
